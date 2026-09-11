@@ -29,7 +29,7 @@
 ```javascript
 const sahasGamage = {
     pronouns: "He/Him",
-    role: "Software Developer & UI/UX Designer",
+    role: "Fullstack Developer & UI/UX Designer",
     focus: ["Clean Code", "Modern Web Architecture", "Creative Design"],
     portfolio: "https://SGamage.site",
     philosophy: "Turn complex problems into simple, beautiful solutions."
