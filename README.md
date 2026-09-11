@@ -1,78 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=SG%20BUILD&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
-
-💡 *“Crafting logic and elegance in every line of code.”*
-
----
-
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer gif" />
-</div>
+  <!-- Dynamic Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=180&section=header&text=SG%20BUILD&fontSize=48&fontColor=61DAFB&fontAlignY=45&animation=twinkling" width="100%" />
 
-###
-
-<h1 align="center">Itz Meh</h1>
-<h3 align="center">Designer | Creator | Self Influencer</h3>
-
----
-
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
-
----
-
-### 📬 Connect with Me  
-
-<p align="center">
- 
-  <a href="https://www.linkedin.com/in/sahas-gamage-999064399">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Hi%20there,%20I'm%20Sahas%20Gamage%20👋;Software%20Developer%20%26%20Designer;Crafting%20logic%20%26%20elegance%20in%20code;Continuous%20Learner%20%26%20Creator" alt="Typing SVG" />
   </a>
-  <a href="https://www.instagram.com/_.hi.ru_?igsh=MWY0M3hmMXd0OGxqNw==">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
-  </a>
-  
 
-</p>
+  <p align="center">
+    💡 <i>“Crafting logic and elegance in every line of code.”</i>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/Hirugamage">
-    <img src="https://komarev.com/ghpvc/?username=Hirugamage&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/Hirugamage">
-    <img src="https://img.shields.io/github/followers/hirugamage?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
-
---- 
-
-<img align="right" width="25%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-### 🧠 Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php&theme=light" />
-  </a>
-</p>
-
----
-
-
-### ⚙️ Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
-  </a>
-</p>
-
----
-
-
-<div align="center">
-  🌐 <a href="https://SGamage.site" target="_blank">portfolio</a> • 📝 <a href="https://www.instagram.com/channel/AbZpFYBsKoyANwx5/" target="_blank">Blog / update </a>
+  <!-- Profile Metrics Badges -->
+  <p align="center">
+    <a href="https://github.com/SahasGamageX">
+      <img src="https://komarev.com/ghpvc/?username=SahasGamageX&color=3a8296&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/SahasGamageX">
+      <img src="https://img.shields.io/github/followers/SahasGamageX?label=GitHub%20Followers&color=3a8296&style=flat-square" alt="GitHub Followers" />
+    </a>
+  </p>
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+### 👨‍💻 About Me
+
+```javascript
+const sahasGamage = {
+    pronouns: "He/Him",
+    role: "Software Developer & UI/UX Designer",
+    focus: ["Clean Code", "Modern Web Architecture", "Creative Design"],
+    portfolio: "https://SGamage.site",
+    philosophy: "Turn complex problems into simple, beautiful solutions."
+};
