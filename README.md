@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Code%20By%20Sg&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=SG%20BUILD&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
