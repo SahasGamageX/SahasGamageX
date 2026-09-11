@@ -2,7 +2,7 @@
   <!-- Dynamic Wave Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=180&section=header&text=SG%20BUILD&fontSize=48&fontColor=61DAFB&fontAlignY=45&animation=twinkling" width="100%" />
 
-  <!-- Fixed Animated Typing SVG (Works 100%) -->
+  <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+there,+I+am+Sahas+Gamage;Software+Developer+and+Designer;Crafting+logic+and+elegance+in+code;Continuous+Learner+and+Creator" alt="Typing SVG" />
   </a>
