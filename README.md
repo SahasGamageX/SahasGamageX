@@ -43,7 +43,7 @@ const sahasGamage = {
 
 ---
 
-### 🐍 Contribution Activity (Snake Game)
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
