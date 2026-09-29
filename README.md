@@ -105,7 +105,7 @@ const sahasGamage = {
     <img src="https://img.shields.io/badge/LinkedIn-Sahas_Gamage-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB&labelColor=050b0d" alt="LinkedIn" />
   </a>
   <br/><br/>
-  <a href="https://www.instagram.com/_.hi.ru_?igsh=MWY0M3hmMXd0OGxqNw==" target="_blank">
+  <a href="https://www.instagram.com/zen.xsg?igsh=MWY0M3hmMXd0OGxqNw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@_.hi.ru_-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB&labelColor=050b0d" alt="Instagram" />
   </a>
   &nbsp;
