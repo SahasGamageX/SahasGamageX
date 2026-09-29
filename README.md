@@ -106,11 +106,11 @@ const sahasGamage = {
   </a>
   <br/><br/>
   <a href="https://www.instagram.com/zen.xsg?igsh=MWY0M3hmMXd0OGxqNw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@_.hi.ru_-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB&labelColor=050b0d" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@Zen.xSG-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB&labelColor=050b0d" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/channel/AbZpFYBsKoyANwx5/" target="_blank">
-    <img src="https://img.shields.io/badge/Broadcast-SG_Studio-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB&labelColor=050b0d" alt="Channel" />
+    <img src="https://img.shields.io/badge/Broadcast-SideQuest-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB&labelColor=050b0d" alt="Channel" />
   </a>
 </div>
 
